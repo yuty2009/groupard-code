@@ -9,14 +9,14 @@ Citation
 
 If you use the code in your research, please cite:
 
-@article{Yu2015, 
-	author = {Tianyou Yu and Zhuliang Yu and Zhenghui Gu and Yuanqing Li}, 
-	journal = {IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
-	title = {Grouped Automatic Relevance Determination and Its Application in Channel Selection for P300 BCIs}, 
-	year = {2015}, 
-	volume = {23}, 
-	number = {6}, 
-	pages = {1068-1077}, 
+@article{Yu2015,
+	author = {Tianyou Yu and Zhuliang Yu and Zhenghui Gu and Yuanqing Li},
+	journal = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+	title = {Grouped Automatic Relevance Determination and Its Application in Channel Selection for P300 BCIs},
+	year = {2015},
+	volume = {23},
+	number = {6},
+	pages = {1068-1077},
 }
 
 
