@@ -1,3 +1,5 @@
+![scutbci](scutbci-withtext.png "SCUTBCI")
+
 # Grouped Automatic Relevance Determination
 
 by Tianyou Yu, Zhuliang Yu, Zhenghui Gu, and Yuanqing Li.
@@ -5,10 +7,11 @@ by Tianyou Yu, Zhuliang Yu, Zhenghui Gu, and Yuanqing Li.
 South China University of Technology
 
 
-Citation
+## Citation
 
 If you use the code in your research, please cite:
 
+```
 @article{Yu2015,
 	author = {Tianyou Yu and Zhuliang Yu and Zhenghui Gu and Yuanqing Li},
 	journal = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
@@ -18,9 +21,9 @@ If you use the code in your research, please cite:
 	number = {6},
 	pages = {1068-1077},
 }
+```
 
-
-To run the code, you should
+## To run the code, you should
 
 1. Download the "Data set II in BCI Competition III (2005)" from the BCI competition website: http://www.bbci.de/competition/iii/.
 
