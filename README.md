@@ -1,4 +1,4 @@
-Grouped Automatic Relevance Determination
+# Grouped Automatic Relevance Determination
 
 by Tianyou Yu, Zhuliang Yu, Zhenghui Gu, and Yuanqing Li.
 
