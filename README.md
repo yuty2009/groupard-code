@@ -29,4 +29,4 @@ If you use the code in your research, please cite:
 
 2. Edit file "saveFeature.m". Change the "datapath" variable according to your local settings. Run this script first.
 
-3. Run mainTest1.m to obtain the results.
+3. Run "mainTest1.m" to obtain the results.
