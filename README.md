@@ -1,4 +1,4 @@
-![scutbci-w200](scutbci-withtext.png "SCUTBCI")
+![scutbci](scutbci-withtext.png =300x50 "SCUTBCI")
 
 # Grouped Automatic Relevance Determination
 
